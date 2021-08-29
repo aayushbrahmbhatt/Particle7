@@ -1,0 +1,135 @@
+
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.top {
+    font-size: 2.1rem;
+    font-family: 'poppins';
+}
+
+.nav-link {
+    color: chartreuse;
+}
+
+.top-container {
+    background-color: #212b44;
+    color: white;
+}
+
+.top-container-contant {
+    text-align: center;
+    font-family: 'Poppins';
+    font-weight: bold;
+    border: 5px solid white;
+    border-radius: 12px;
+    padding:  90px 50px;
+}
+
+
+.giant-heading {
+    font-size: 7rem;
+}
+
+.like {
+    font-size: 20px;
+    cursor: pointer;
+    text-shadow:3px 6px 0px rgba(0,0,0,0.2);
+    padding-right: 5px;
+}
+
+.shadows {
+    text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
+}
+
+.filters {
+    padding: 20px 10px;
+    margin-bottom: 50px;
+}
+
+#main-title {
+    margin-bottom: 70px;
+}
+
+.middle-container {
+    text-align: center;
+    background-color: #334062;
+    color: #04e9ae;
+}
+
+.programming-photo {
+    max-width: 100%;
+    padding : 50px;
+    margin: 0 auto;
+    border-radius: 12px;
+}
+
+.other-title {
+    font-family: 'Poppins';
+    padding-bottom: 70px;
+    padding-top: 70px;
+    color: #04e9ae;
+    font-size: 5rem;
+}
+
+.card {
+    margin: auto 4.16%;
+}
+
+.tag {
+    margin: 5px 4px;
+    color: #fff !important;
+	text-transform: uppercase;
+	text-decoration: none;
+	background: #60a3bc;
+    padding : 5px 7px;
+	border-radius: 15px;
+	display: inline-block;
+	border: none;
+	transition: all 0.4s ease 0s;
+}
+
+.tag:hover {
+    text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+	-webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+	-moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+	transition: all 0.4s ease 0s;
+}
+
+.hover-effect {
+    transition: 1s ease;
+    margin-bottom: 40px;
+}
+
+.hover-effect:hover {
+    -webkit-transform: scale(0.93);
+    -ms-transform: scale(0.93);
+    transform: scale(0.93);
+    transition: 0.6s ease;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.btn {
+    margin : 10px auto;
+    margin-bottom: 0;
+}
+
+.row {
+    color: #ebebeb;
+    margin: auto 60px;
+}
+.bg-primary {
+    background-color: #151b2a!important;
+}
+
+#bottom {
+    font-family: 'Poppins';
+    padding-top: 50px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #ebebeb;
+    background-color: #212b44;
+}
+
